@@ -4,3 +4,8 @@
 
 ## Sigma Decoder(change sigma into siem query)
 	https://uncoder.io/ 
+	
+	
+## Virus/Hash Detection
+	https://metadefender.opswat.com/
+	https://www.virustotal.com/
